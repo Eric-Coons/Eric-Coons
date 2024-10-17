@@ -1,4 +1,4 @@
-## Hi there 👋
+## - 🔭 I’m currently working on figuring out how to use GitHub! I'm excited to learn more about how to use this resource.
 
 <!--
 **Eric-Coons/Eric-Coons** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
